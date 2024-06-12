@@ -1,0 +1,40 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #eef0c1;
+}
+.header {
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+}
+
+.menu {
+  text-align: center;
+}
+
+.recipe-img {
+  width: 500px;
+  height: auto;
+}
+
+.ingredients {
+text-align: center;
+}
+
+.steps {
+  text-align: center;
+}
+
+ul > .last-ingredient {
+  color: red;
+  font-weight: bold;
+}
+
+ol .even {
+  color: purple
+}
+
+.teaspoon,
+.teaspoon2 {
+  color: green;
+}
